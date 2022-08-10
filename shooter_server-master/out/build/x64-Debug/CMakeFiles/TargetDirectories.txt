@@ -1,0 +1,3 @@
+D:/games/VectShooter/shooter_server-master/out/build/x64-Debug/CMakeFiles/shooter_server.dir
+D:/games/VectShooter/shooter_server-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/games/VectShooter/shooter_server-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
